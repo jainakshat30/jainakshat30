@@ -3,7 +3,7 @@
 I am a 19-year-old striving software developer from India. I’m currently doing my BTECH at MAIT, Delhi.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jainakshat30&layout=compact&theme=radical)
+![jainakshat30's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jainakshat30&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 # 💻 Tech Stacks:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
